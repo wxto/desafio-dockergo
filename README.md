@@ -1,3 +1,1 @@
-# imersao13-desafio-docker
-
-https://hub.docker.com/r/wxto/fullcycle
+Imagem Dockerhub: https://hub.docker.com/r/wxto/fullcycle
